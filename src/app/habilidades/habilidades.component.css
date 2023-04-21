@@ -1,0 +1,19 @@
+.container {
+  display : flex;
+ flex-direction : row;
+ border-radius: 3%;
+}
+
+.card{
+
+ box-shadow: 1px 3px 6px 1px rgb(78, 71, 71)
+}
+.accordion{
+  margin: 50px;
+  padding: 5px;
+ box-shadow: 1px 3px 6px 1px rgb(78, 71, 71)
+
+}
+.accordion-button{
+  background-color: rgb(129, 161, 161);
+}

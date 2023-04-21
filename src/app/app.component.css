@@ -1,0 +1,18 @@
+.d-item{
+  height:100px;
+}
+.d-img
+{
+  height: 100%;
+  object-fit:cover;
+  filter: brightness(0,6);
+}
+.header .navbar {
+  background-color: transparent !important;
+}
+.body{
+  background: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg) no-repeat center;
+  opacity: 0.9;
+  background-size: cover;
+  min-height: 100vh;
+}
